@@ -6,7 +6,7 @@ This script automates the installation of Jenkins, Nexus, and SonarQube on a sin
 
 ## System Requirements
 
--   **Instance Type:** T2 or T3 Large
+-   **Instance Type:** T2 or T3 Large (T3 Large Recommended)
 -   **Storage:** 30GB root volume
 -   **Operating System:** Ubuntu
 
