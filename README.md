@@ -23,7 +23,7 @@ This script automates the installation of Jenkins, Nexus, and SonarQube on a sin
 
 1.  Clone this repository to your local machine:
     
-    ```git clone https://github.com/Chriscloudaz/nexus-sonar-jenkins-install/``` 
+    ```git clone https://github.com/gitgo23/Jenkins-Nexus-Sonarqube-install.git``` 
     
 2.  Navigate to the directory containing the script:
     
@@ -72,6 +72,8 @@ After the installation is complete, you can access the following URLs to use the
 -   **Jenkins:** http://your-ec2-instance-ip:8080
 -   **Nexus:** http://your-ec2-instance-ip:8081
 -   **SonarQube:** http://your-ec2-instance-ip:9000
+
+Please feel free to reach out on www.gyenoch@gmail.com
 
 ## License
 
