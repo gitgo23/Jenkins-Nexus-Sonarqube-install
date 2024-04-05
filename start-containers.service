@@ -1,0 +1,11 @@
+[Unit]
+Description=Start Containers Service
+
+After=network.target
+
+[Service]
+type=simple
+ExecStart=/bin/bash /bin/start_containers.sh
+
+[Install]
+WantedBy=multi-user.target
